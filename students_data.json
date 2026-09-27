@@ -1,0 +1,13 @@
+{
+    "101": {
+        "roll_number": "101",
+        "name": "ram",
+        "marks": {
+            "maths": 69.0,
+            "science": 77.0,
+            "sst": 75.0,
+            "eng": 89.0,
+            "hindi": 56.0
+        }
+    }
+}
